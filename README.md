@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gideoncresswell&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideoncresswell)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
   <a href="https://instagram.com/gideoncresswell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
