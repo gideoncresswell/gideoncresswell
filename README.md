@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=gideoncresswell&style=flat-square&color=blue" alt=""/>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A212ASV)
