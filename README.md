@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Gideon Cresswell, Drupal developer, Unity Developer and racing driver 🏎️
 
-- I'm currently the Lead Drupal developer at https://www.ucl.ac.uk 🎓
+- I'm a contract lead PHP developer that specialises in Drupal 👨‍💻
+- I’m currently learning DDEV, Home Assistant, and C# 🌱
 - In my spare time I'm building a game with Unity 🎮
 - I love cats 😻
 - I support Chelsea FC ⚽
